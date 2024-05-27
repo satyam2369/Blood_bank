@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(
 	cors({
 		origin: [
-			"https://radiant-centaur-4f7e13.netlify.app",
+			"https://665489d368396f1480b4ce88--sweet-parfait-280ca3.netlify.app",
 		],
 		credentials: true,
 	})
