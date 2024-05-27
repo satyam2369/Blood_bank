@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(
 	cors({
 		origin: [
-			"http://localhost:3000",
+			"https://radiant-centaur-4f7e13.netlify.app",
 		],
 		credentials: true,
 	})
