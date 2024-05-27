@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(
 	cors({
 		origin: [
-			"https://665489d368396f1480b4ce88--sweet-parfait-280ca3.netlify.app",
+			"https://sweet-parfait-280ca3.netlify.app",
 		],
 		credentials: true,
 	})
